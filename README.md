@@ -1,2 +1,2 @@
-# Data_Clustering_With_QAOA
+# Data Clustering With QAOA
 Implementation of QAOA algorithm on ___ dataset. Qiskit.
