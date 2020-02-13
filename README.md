@@ -9,5 +9,9 @@ In this repo, we decided to focus on using QAOA solving the Maximum Cut problem,
 (fill out here)
 
 ## 2. How QAOA solves this.
+The Quantum Approximate Optimization Algorithm doesn't actually solve for the max value, but instead *approximates* it (hence the creative name). Although there are many classical algorithms that can do this already, QAOA has the potential to show speed ups over the classical algorithms as the circuit depth, p -> ∞ . At this point in time, the best performance we've achieved with the QAOA algorithm is at depth p = 1, so there is still much more exploring to do.
+
+
+
 
 
